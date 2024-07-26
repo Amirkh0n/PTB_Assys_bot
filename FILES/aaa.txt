@@ -1,0 +1,55 @@
+﻿#Quyidagilarning qaysi birida yozgi va qishki turi farqlanadi?
++tangachali temiratki
++psoriaz
+-trixofitiya
+-pufakli pemfihus
+-During dermatiti
+
+#Tangachali temiratki uchun xarakterli
++Kyobner fenomeni
++Voronov psevdoatrofiya gultojisi
+-Gorchakov Ardi
+-sitkovskiy
+-kofe quyqasi
+
+#Quyidagilardan qaysi biri pustulyoz psoriazga tegishli?
++Zumbusch
++Barber
+-intertriginoz
+-artropatik psoriaz
+-psoriza eritrodermiyasi
+
+#Tangachali temiratkida tirnoqlarda kuzatiladi
++onixolizis
++onixogrifoz
+-tirnoqlar mikozi
+-panaritsiy
+-hech qaysi
+
+#Qizil yassi temiratkida bo'ladi
++Uikxam belgisi
++papula yuzasida kindiksimon botiq
+-eritrodermiya
+-Gorchakov Ardi
+-pilnov
+
+#Xalqasimon qizil yassi temiratkiga tegishli
++erkaklarning jinsiy a'zolarida uchraydi
++toshmalar o'rtasidan so'rila boshlaydi
+-qonli shudring
+-ko'p sonli pufakchalar
+-sochlrni zararlaydi
+
+#Dermatomiozit uchun xos
++muskul, teri nerv zararlanadi
++ko'zoynaksimon eritema
+-ko'z zararlanadi
+-muskul, teri, ko'z zararlanadi
+-hammasi
+
+#Akantolitik pemfigus uchun xos
++Nikolskiy
++Asbo Gansen
+-Pilnov
+-Gorchakov Adi
+-Voronov
